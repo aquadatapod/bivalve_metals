@@ -41,7 +41,7 @@ library(dplyr)
 # Import your WOS data
 ################################################################################
 # Adjust filename accordingly
-M <- convert2df("Final-refined/refined-305.bib", dbsource = "wos", format = "bibtex")
+M <- convert2df("Data/refined-305.bib", dbsource = "wos", format = "bibtex")
 
 # Quick overview
 results <- biblioAnalysis(M)

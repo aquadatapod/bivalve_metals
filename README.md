@@ -4,7 +4,7 @@
 This repository has been created to ensure transparency, reproducibility, and accessibility of the research workflows used in the study.
 
 ├── data/
-│   ├── Raw/            # bibliometric data as exported from WoS
+│   ├── Raw/            # Raw bibliometric data as exported from WoS
 │   ├── Data/           # Cleaned/standardized datasets used in final analysis
 │   
 │
